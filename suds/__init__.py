@@ -26,7 +26,7 @@ import sys
 # Project properties
 #
 
-__version__ = '0.4'
+__version__ = '0.4.bolster1'
 __build__="GA R696-20100908"
 
 #
